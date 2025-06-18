@@ -9,18 +9,18 @@
 
 Transformo datos en decisiones estratégicas mediante:
 
-- Automatización de reportes con Power BI y Tableau  
-- Análisis de datos con Python, R y SQL  
+- Análisis de datos con Python, R y SQL
+- Automatización de reportes con Power BI y Tableau
 - Modelos predictivos con Machine Learning  
 - Procesos ETL e integración de grandes volúmenes de datos (Big Data)  
-- Prevención de fraude y análisis de comportamiento
+- Prevención y análisis de datos de comportamiento
 
 ---
 
 ## 🧠 Experiencia
 
-🔹 Más de 10 años en desarrollo de soluciones basadas en datos  
-🔹 Experiencia en banca, prevención de fraudes y visualización analítica  
+🔹 +10 años desarrollando soluciones basadas en datos 
+🔹 Experiencia en banca, Desarrollo de aplicaciones, visualización analítica y prevención de fraudes
 🔹 Subgerente de Prevención Interna en Banreservas
 
 ---
@@ -38,6 +38,12 @@ Scikit-learn · Pandas · Docker · Git · APIs
 Aplico técnicas de EDA, regresión, clasificación, clustering y redes neuronales para descubrir patrones ocultos, optimizar decisiones y generar valor para el negocio.
 
 ---
+
+## 📘 Proyectos destacados (educativos y prácticos)
+	•	oulad-analisis: Exploración de desempeño estudiantil usando técnicas estadísticas, SVM y redes neuronales.
+	•	sakila-console-crud: CRUD con Python y SQLAlchemy sobre base de datos Sakila.
+
+ ___
 
 ## 📫 Contacto
 
