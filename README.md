@@ -1,56 +1,63 @@
 # 👋 Hola, soy Norman Carrasco
+### Data Scientist & BI Consultant | Python · Machine Learning · Big Data 
 
-👨‍💼 Data Scientist & BI Consultant | Python · Machine Learning · Big Data  
-📍 República Dominicana | Disponible para proyectos remotos
-
----
-
-## 🔍 ¿Qué hago?
-
-Transformo datos en decisiones estratégicas mediante:
-
-- Análisis de datos con Python, R y SQL
-- Automatización de reportes con Power BI y Tableau
-- Modelos predictivos con Machine Learning  
-- Procesos ETL e integración de grandes volúmenes de datos (Big Data)  
-- Prevención y análisis de datos de comportamiento
+📍 **República Dominicana** | 🌍 Disponible para proyectos remotos
 
 ---
 
-## 🧠 Experiencia
+## 🔍 Perfil Profesional
 
-🔹 +10 años desarrollando soluciones basadas en datos 
-🔹 Experiencia en banca, Desarrollo de aplicaciones, visualización analítica y prevención de fraudes
-🔹 Subgerente de Prevención Interna en Banreservas
+Transformo datos complejos en decisiones estratégicas. Mi enfoque combina la precisión del **Machine Learning** con la claridad del **Business Intelligence** para optimizar procesos de negocio y mitigar riesgos.
 
----
-
-## ⚙️ Tecnologías y herramientas
-
-Python · .NET · SQL Server · Oracle  
-Power BI · Tableau · R  
-Scikit-learn · Pandas · Docker · Git · APIs
+* **Análisis Predictivo:** Implementación de modelos avanzados con Python, R y SQL.
+* **Visualización Estratégica:** Dashboards dinámicos e intuitivos en Power BI y Tableau.
+* **Arquitectura de Datos:** Diseño de procesos ETL robustos e integración de Big Data.
+* **Análisis de Fraude Bancario:** Especialista en detección de anomalías y análisis de comportamiento en el sector financiero.
 
 ---
 
-## 🧬 Ciencia de Datos
+## 🛠️ Tecnologías y Herramientas
 
-Aplico técnicas de EDA, regresión, clasificación, clustering y redes neuronales para descubrir patrones ocultos, optimizar decisiones y generar valor para el negocio.
+| Categoría | Herramientas |
+| :--- | :--- |
+| **Lenguajes** | `Python`, `R`, `.NET`, `SQL (Server/Oracle)`, `DAX` |
+| **Data Science** | `Pandas`, `Scikit-learn`, `TensorFlow/Keras`, `Statsmodels` |
+| **Visualización** | `Power BI`, `Tableau`, `Matplotlib`, `Seaborn` |
+| **DevOps & Tools** | `Docker`, `Git`, `Web Scraping`, `APIs REST` |
 
 ---
 
-## 📘 Proyectos destacados (educativos y prácticos)
-	•	oulad-analisis: Exploración de desempeño estudiantil usando técnicas estadísticas, SVM y redes neuronales.
-	•	sakila-console-crud: CRUD con Python y SQLAlchemy sobre base de datos Sakila.
+## 🚀 Proyectos Destacados
 
- ___
+### 💳 [StellaPay POS](https://github.com/NCarrasco/stellapay-pos.git)
+Sistema de Punto de Venta (POS) integral. Un proyecto robusto que combina lógica de negocio, manejo de transacciones y una arquitectura orientada a la eficiencia operativa.
+* **Tech Stack:** Python, Backend development, Gestión de bases de datos relacionales.
+
+### 🎓 [Oulad-Analisis](https://github.com/NCarrasco/oulad-analisis)
+Análisis avanzado del desempeño estudiantil utilizando técnicas estadísticas y modelos de aprendizaje supervisado.
+* **Algoritmos:** SVM, Redes Neurales y Regresión.
+
+### 📊 [Sakila Console CRUD](https://github.com/NCarrasco/sakila-console-crud)
+Implementación de un sistema CRUD utilizando SQLAlchemy para la gestión eficiente y escalable de bases de datos.
+
+---
+
+## 🧠 Experiencia Relevante
+
+* **Subgerente de Prevención Interna | Banreservas**
+    Liderazgo en la detección de anomalías y prevención de fraude mediante modelos analíticos de comportamiento.
+* **+10 años de experiencia** desarrollando soluciones basadas en datos para banca y visualización analítica.
+
+---
 
 ## 📫 Contacto
 
-- 📧 normcarrasco@gmail.com  
-- 🔗 [LinkedIn](https://www.linkedin.com/in/nocarrasco)  
-- 🌐 [Blog AprenTICs](https://apren2tics.wordpress.com)
+<p align="left">
+  <a href="https://www.linkedin.com/in/nocarrasco" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="mailto:normcarrasco@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
+  <a href="https://apren2tics.wordpress.com" target="_blank"><img src="https://img.shields.io/badge/Blog-21759B?style=for-the-badge&logo=wordpress&logoColor=white" alt="Blog"></a>
+</p>
 
 ---
 
-> 🧠 *“Transformo tus datos en decisiones estratégicas a través de informes efectivos.”*
+> 💡 *"Transformo datos en decisiones estratégicas a través de informes de alto impacto."*
