@@ -29,8 +29,12 @@ Transformo datos complejos en decisiones estratégicas. Mi enfoque combina la pr
 
 ## 🚀 Proyectos Destacados
 
-### FRAUD-WORKFLOW-MANAGEMENT
-* **Tech Stack:** Plataforma web desarrollada en ASP.NET Core MVC (.NET 8)
+### [FRAUD-WORKFLOW-MANAGEMENT](https://github.com/NCarrasco/FRAUD-WORKFLOW-MANAGEMENT.git)
+Plataforma web desarrollada en ASP.NET Core MVC (.NET 8) para administrar alertas operativas, asignarlas a analistas, registrar gestiones, controlar cambios de estado y dar visibilidad ejecutiva mediante auditoria y dashboard.
+
+El sistema transforma una operacion manual y dispersa en un flujo controlado, trazable y medible. Su foco principal es la gestion de alertas, la supervision operativa y la trazabilidad completa del ciclo del caso.
+
+* **Tech Stack:** ASP.NET Core MVC (.NET 8), Bootstrap
 
 ### 💳 [StellaPay POS](https://github.com/NCarrasco/stellapay-pos.git)
 Sistema de Punto de Venta (POS) integral. Un proyecto robusto que combina lógica de negocio, manejo de transacciones y una arquitectura orientada a la eficiencia operativa.
