@@ -29,6 +29,9 @@ Transformo datos complejos en decisiones estratégicas. Mi enfoque combina la pr
 
 ## 🚀 Proyectos Destacados
 
+### FRAUD-WORKFLOW-MANAGEMENT
+* **Tech Stack:** Backend development, Gestión de bases de datos relacionales.
+
 ### 💳 [StellaPay POS](https://github.com/NCarrasco/stellapay-pos.git)
 Sistema de Punto de Venta (POS) integral. Un proyecto robusto que combina lógica de negocio, manejo de transacciones y una arquitectura orientada a la eficiencia operativa.
 * **Tech Stack:** Python, Backend development, Gestión de bases de datos relacionales.
