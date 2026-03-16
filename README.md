@@ -12,7 +12,7 @@ Transformo datos complejos en decisiones estratégicas. Mi enfoque combina la pr
 * **Análisis Predictivo:** Implementación de modelos avanzados con Python, R y SQL.
 * **Visualización Estratégica:** Dashboards dinámicos e intuitivos en Power BI y Tableau.
 * **Arquitectura de Datos:** Diseño de procesos ETL robustos e integración de Big Data.
-* **Análisis de Fraude Bancario:** Especialista en detección de anomalías y análisis de comportamiento en el sector financiero.
+* **Análisis de Fraude Bancario:** Analisis avanzados de datos para la detección de anomalías y análisis de comportamiento en el sector financiero.
 
 ---
 
@@ -29,7 +29,7 @@ Transformo datos complejos en decisiones estratégicas. Mi enfoque combina la pr
 
 ## 🚀 Proyectos Destacados
 
-### [FRAUD-WORKFLOW-MANAGEMENT](https://github.com/NCarrasco/FRAUD-WORKFLOW-MANAGEMENT.git)
+### 💳 [FRAUD-WORKFLOW-MANAGEMENT](https://github.com/NCarrasco/FRAUD-WORKFLOW-MANAGEMENT.git)
 Plataforma web desarrollada en ASP.NET Core MVC (.NET 8) para administrar alertas operativas, asignarlas a analistas, registrar gestiones, controlar cambios de estado y dar visibilidad ejecutiva mediante auditoria y dashboard.
 
 El sistema transforma una operacion manual y dispersa en un flujo controlado, trazable y medible. Su foco principal es la gestion de alertas, la supervision operativa y la trazabilidad completa del ciclo del caso.
